@@ -1,4 +1,4 @@
 Gender-Identifier
 =================
 
-Distinguish names as male and female based on the alphabets used. This uses NLTK. 
+Name based gender identification using NLTK. You can read more about it at: http://sidgan.github.io/Gender-Identifier/
